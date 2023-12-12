@@ -1,0 +1,18 @@
+.highlight {
+  background-color: purple;
+   color: white;
+   padding: 0.5rem
+  }
+
+  p {
+    font-family: Arial, sans-serif;
+  }
+  a {
+    text-decoration: none;
+    color: #3366cc;
+  }
+  #unique {
+    color: aliceblue;
+    font-size: medium;
+    font-weight: bold;
+  }
